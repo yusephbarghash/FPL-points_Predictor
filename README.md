@@ -48,7 +48,7 @@ This simple project is aimed at predicting the points that Fantasy Premier Leagu
 - The deployed application allows users to input player-specific parameters and get predictions for the upcoming gameweek.
 
 #### Accessing the Deployed Model
-- The deployed application can be accessed at %%%%% [Your Streamlit App URL](link_to_your_streamlit_app).
+- The deployed application can be accessed at[Streamlit App URL](link_to_your_streamlit_app).
 
 
 ## Conclusion
